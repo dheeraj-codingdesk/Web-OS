@@ -1,4 +1,4 @@
-# Web OS
+# Web OS 📀
 
 A Windows‑style desktop UI built with React, Vite, TypeScript, and Tailwind CSS. It includes draggable, resizable windows, a taskbar with a Start menu and clock, and several built‑in apps (File Explorer, Notepad, Calculator, Settings).
 
