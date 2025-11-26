@@ -54,4 +54,3 @@ A Windows‑style desktop UI built with React, Vite, TypeScript, and Tailwind CS
 
 - Production builds hide sourcemaps (`vite.config.ts:8`)
 - Path aliases are resolved from `tsconfig` (`vite-tsconfig-paths`)
-- Trae Solo badge is injected on production builds only (`vite.config.ts:19`)
